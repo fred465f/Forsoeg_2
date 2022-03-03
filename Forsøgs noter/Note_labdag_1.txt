@@ -1,0 +1,24 @@
+Hvis man vil have et ordentligt interferensmønster, skal armene cirkavære lige lange. 
+Hvis de ikke er kan interferensmønstret godt være ustabilt og fucke. 
+
+Vi skal bestemme ændringen i afstand for det pisoelektriske materiale fra et givent nulpunkt som funktion af spædning.
+Vi øndre spændingen så vi går fra maksimum til minimum interferens, og for hver af disse ændres
+afstanden med 1/4*lambda. Dette kan gøres for udvidelse og sammenpresning.
+
+Største usikkerhed er kvalitativt at bestemme totalt kontrukti/destruktiv interferens.
+Der er optisk baggrundsstøj, men det druknes af intensiteten for laseren.
+Spøgsmålet er om den konstante spænding egentligt er konstant.
+
+Vi skal kigge på sensitiviteten af spændingsgeneratoren og maks og min. 
+
+Grunden til at armene skal være lige lange er fordi jo længere de er fra hinanden jo mere ændrer interferensmønstret
+sig når man bevæger sig ud i rummet.
+
+Al den ønskede data samles i én måling med savtakmønster hvor vi med tuiden får sammenhørende værdier af intensiteter og spændinger.
+Vi kan derefter oversætte intensiteterne til rumlig ændring i pizospejlet position. 
+
+funktionsgenerator mellem 0 og200 herts med spænding mellem 0 og 10 volt. Spænding forstærkes med faktor 10 i forsytærker. 
+
+Lyset er lignet op så vi har interferensmønster som er circulært omkring et centrum. Dette gør at vi måler over stort set den samme mængde interferens.
+Hvis ikke midler den over flere interferenser og gør det mere usikkert. 
+
