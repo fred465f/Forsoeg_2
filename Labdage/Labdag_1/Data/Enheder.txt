@@ -1,0 +1,4 @@
+Størrelse,Startværdi,Enhed
+S_1,?,m
+S_2,?,m
+V,?,V
